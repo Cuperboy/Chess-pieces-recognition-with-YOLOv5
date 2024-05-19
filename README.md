@@ -3,7 +3,7 @@
 
 Проект содержит:
   
-  1) Датасет с данными, на которых обучалась модель
+  1) Датасет с данными, на которых обучалась модель https://www.kaggle.com/datasets/imtkaggleteam/chess-pieces-detection-image-dataset/data
   
   2) Jupyter Notebook, в котором было произведено обучение (Обучение происходило на Kaggle)
   
