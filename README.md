@@ -8,7 +8,7 @@
 
 Проект содержит:
   
-  1) [Датасет](https://www.kaggle.com/datasets/imtkaggleteam/chess-pieces-detection-image-dataset/data) с данными, на которых обучалась модель
+  1) [Dataset](https://www.kaggle.com/datasets/imtkaggleteam/chess-pieces-detection-image-dataset/data) с данными, на которых обучалась модель
   
   2) Jupyter Notebook, в котором было произведено обучение (Обучение происходило на Kaggle)
   
